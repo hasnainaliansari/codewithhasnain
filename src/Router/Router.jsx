@@ -8,7 +8,8 @@ import AllBlogs from "../Pages/AllBlogs/AllBlogs";
 import BlogDetails from "../Pages/BlogDetails/BlogDetails";
 import Protfolio from "../Pages/portfolio/portfolio";
 import ProtfolioDetails from "../Pages/ProtfolioDetails/ProtfolioDetails";
-import ThankYou from "../Pages/thank-you/thank-you";
+import ThankYou from "../pages/thank-you/thank-you";
+
 
 export const router = createBrowserRouter([
   {
